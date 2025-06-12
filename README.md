@@ -41,9 +41,6 @@ Used the initial exchange rate and relative inflation rates to calculate the exp
   \]
 - Plotted both actual and PPP-based rates.
 
-**📈 Output Snippet:**
-![PPP Plot] (image/Actual vs. Expected Rate.png)
-
 ---
 
 #### 3. 🌐 Explore deviations from PPP-based expected rate
