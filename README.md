@@ -1,5 +1,6 @@
 # Impact of Inflation: Case Study
-The dataset is in the data folder
+The dataset is in the data folder.
+
 The datasets comprises historical data on the exchange rate between the Indian Rupee (INR) and the US Dollar (USD) from 1980 to 2024, along with corresponding inflation rates for India and the United States. 
 The exchange rate data includes the average annual INR/USD exchange rate, while the inflation data captures the annual percentage change in the Consumer Price Index (CPI) for both countries. 
 The dataset is structured with columns for the year, exchange rate, and inflation rates for each country, which enables a longitudinal analysis of the relationship between inflation and exchange rates over time.
